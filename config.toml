@@ -1,0 +1,183 @@
+baseURL = "https://3dprintingservice.co/"
+languageCode = "en-us"
+title = "3D Printing Service"
+theme = "printwire"
+
+[params]
+tagline       = "On-demand 3D printing service — metal, polymer, and composite parts with instant quoting, fast lead times, and global delivery."
+description   = "3D Printing Service is the on-demand manufacturing hub — FDM, SLA, SLS, and DMLS metal printing for prototypes, tooling, and end-use parts. Upload, quote, and order in minutes."
+keywords      = "3D printing service, online 3D printing, on-demand manufacturing, instant 3D print quote, metal 3D printing service, SLS service, DMLS service"
+logoEmoji     = "🏭"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#2563eb"
+colorPrimaryDark  = "#1d4ed8"
+colorPrimaryLight = "#60a5fa"
+colorBgDark       = "#020610"
+colorBgSection    = "#040a18"
+colorBgCard       = "#070f22"
+colorBgCardHover  = "#0b152e"
+
+fontPrimary   = "Inter"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"]
+
+heroEyebrow  = "On-Demand Manufacturing"
+heroTitle    = "3D <em>Printing Service</em>"
+heroSubtitle = "On-demand 3D printing service — metal, polymer, and composite parts with instant quoting, fast lead times, and global delivery."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+overviewTitle   = "Upload. Quote. Print. Ship."
+overviewText    = "From FDM concept models at $10 to DMLS titanium aerospace parts — our on-demand platform quotes any geometry in any material in 60 seconds and ships globally in 1–5 days."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "3D Printing Service Services"
+servicesSubtitle = "On-demand 3D printing service — metal, polymer, and composite parts with instant quoting, fast lead times, and global delivery."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "On-demand 3D printing service — metal, polymer, and composite parts with instant quoting, fast lead times, and global delivery."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 60
+suffix = "s"
+label  = "Instant Quote Time"
+
+[[params.stats]]
+count  = 5
+suffix = "days"
+label  = "Max Lead Time"
+
+[[params.stats]]
+count  = 30
+suffix = "+"
+label  = "Materials Available"
+
+[[params.stats]]
+count  = 50
+suffix = "+"
+label  = "Countries Served"
+
+
+[[params.applications]]
+title       = "Engineering Prototypes"
+description = "FDM, SLA, and SLS prototypes for design validation — overnight delivery for urgent projects."
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+[[params.applications]]
+title       = "Production Parts"
+description = "SLS nylon and DMLS metal for end-use parts — no tooling, no minimums, repeat orders in 24 hours."
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+[[params.applications]]
+title       = "Tooling & Fixtures"
+description = "Jigs, fixtures, and production tooling in engineering polymer — faster and cheaper than machining for short runs."
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+[[params.applications]]
+title       = "Medical & Dental"
+description = "Biocompatible SLA and SLS parts for medical device prototyping and dental applications."
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "🏭"
+title       = "FDM Printing"
+description = "FDM in PLA, ABS, PETG, ASA, nylon, and TPU — functional prototypes from $10, shipped in 24 hours."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "SLA/MSLA Printing"
+description = "High-resolution SLA in standard, engineering, flexible, and castable resins — 25µm accuracy for fine detail."
+
+[[params.servicesPreview]]
+icon        = "◎"
+title       = "SLS Nylon Production"
+description = "PA12 SLS parts — isotropic, no support marks, production-grade quality for functional end-use components."
+
+[[params.servicesPreview]]
+icon        = "⚙️"
+title       = "DMLS Metal Printing"
+description = "DMLS in 316L, 17-4 PH, Ti6Al4V, AlSi10Mg, and Inconel — industrial metal parts with full material certification."
+
+
+[[params.services]]
+name        = "FDM Printing"
+description = "FDM in PLA, ABS, PETG, ASA, nylon, and TPU — functional prototypes from $10, shipped in 24 hours."
+icon        = "🏭"
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+
+[[params.services]]
+name        = "SLA/MSLA Printing"
+description = "High-resolution SLA in standard, engineering, flexible, and castable resins — 25µm accuracy for fine detail."
+icon        = "🔬"
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+
+[[params.services]]
+name        = "SLS Nylon Production"
+description = "PA12 SLS parts — isotropic, no support marks, production-grade quality for functional end-use components."
+icon        = "◎"
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+
+[[params.services]]
+name        = "DMLS Metal Printing"
+description = "DMLS in 316L, 17-4 PH, Ti6Al4V, AlSi10Mg, and Inconel — industrial metal parts with full material certification."
+icon        = "⚙️"
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing flagship"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "3dprintmetal.com"
+url         = "https://3dprintmetal.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "metalpowder.co"
+url         = "https://metalpowder.co"
+description = "Metal powder for AM"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
