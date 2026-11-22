@@ -6,10 +6,10 @@ theme = "printwire"
 [params]
 tagline       = "Part of the PrintWire network of websites about 3D printing and additive manufacturing."
 description   = "3D Printing Service is part of the PrintWire network. PrintWire passes quote requests to specialised manufacturers and replies with pricing."
-keywords      = "3D printing service, online 3D printing, on-demand manufacturing, instant 3D print quote, metal 3D printing service, SLS service, DMLS service"
 logoEmoji     = "🏭"
 contactEmail  = "maxdavisgroup@gmail.com"
-footerServicesLabel = "Services"
+footerServicesLabel = "Quotes"
+footerServices = ["How quotes work"]
 
 colorPrimary      = "#2563eb"
 colorPrimaryDark  = "#1d4ed8"
@@ -39,18 +39,13 @@ overviewBtnText = "How quotes work"
 overviewBtnURL  = "/services/"
 
 applicationsTitle = "Industries We Serve"
-servicesTitle    = "3D Printing Service Services"
+servicesTitle    = "Quotes"
 servicesSubtitle = "Part of the PrintWire network of websites about 3D printing and additive manufacturing."
 clusterTitle = "Related 3D Printing Resources"
 ctaTitle   = "Request a quote"
 ctaText    = "Describe your part or project. PrintWire does not manufacture parts itself. We pass your request to specialised manufacturers and reply with pricing."
 ctaBtnText = "Get in Touch"
 ctaBtnURL  = "/contact/"
-
-[[params.clusterLinks]]
-name        = "sendcutship.com"
-url         = "https://sendcutship.com"
-description = "3D Printing Service is part of the PrintWire network. PrintWire passes quote requests to specialised manufacturers and replies with pricing."
 
 [[params.clusterLinks]]
 name        = "dmls3d.com"
@@ -80,7 +75,7 @@ name = "Articles"
 url  = "/articles/"
 weight = 3
 [[menu.main]]
-name = "Services"
+name = "Quotes"
 url  = "/services/"
 weight = 4
 [[menu.main]]

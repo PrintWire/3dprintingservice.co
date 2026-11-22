@@ -12,7 +12,7 @@ subtitle: "What 3D Printing Service (3dprintingservice.co) collects today. Last 
 
 ## What the forms collect
 
-The forms on this site collect only what you type into them: your name, your email address and your message, and your company, your phone number and an attached file if you choose to give them.
+The forms on this site collect only what you type into them: your name, your email address and your message, and your company, your phone number and an attached file if you choose to give them. The quote form also records your answer to the export control question and that you ticked the consent box.
 
 ## How it is used
 
