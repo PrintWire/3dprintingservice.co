@@ -3,7 +3,7 @@ title: "Privacy"
 type: "page"
 layout: "plain"
 description: "Privacy page for 3D Printing Service: what the contact form collects and who processes it."
-subtitle: "What 3D Printing Service (3dprintingservice.co) collects today. Last updated 21 November 2026."
+subtitle: "What 3D Printing Service (3dprintingservice.co) collects today. Last updated 22 November 2026."
 ---
 
 ## Who runs this site
