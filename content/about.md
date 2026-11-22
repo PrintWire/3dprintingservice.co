@@ -1,11 +1,21 @@
 ---
 title: "About 3D Printing Service"
 type: "page"
-layout: "about"
-description: "3D Printing Service — On-demand 3D printing service — metal, polymer, and composite parts with instant quoting, fast lead times, and global delivery."
-heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
-storyTitle: "3D Printing Service — AM Expertise"
-storyText:
-  - "3D Printing Service is the authoritative resource for 3D printing service and on-demand manufacturing — covering technology, materials, and industry applications."
-  - "Our editorial team combines deep technical knowledge with real manufacturing experience to serve engineers and procurement professionals."
+layout: "plain"
+description: "About 3D Printing Service, part of the PrintWire network of 3D printing websites."
+subtitle: "3D Printing Service is part of the PrintWire network of websites about 3D printing and additive manufacturing."
 ---
+
+## What PrintWire does
+
+PrintWire publishes articles and links to industry news.
+
+PrintWire also takes quote requests. PrintWire does not manufacture parts itself. We pass your request to specialised manufacturers and reply with pricing. PrintWire does not run a print shop or a factory.
+
+## What you will find here
+
+Articles written for the PrintWire network are listed under [Articles](/articles/). News headlines on the homepage link to stories from other publishers. Those stories belong to their publishers.
+
+## Contact
+
+Questions, corrections and quote requests go through the [contact page](/contact/).

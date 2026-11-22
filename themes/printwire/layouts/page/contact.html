@@ -56,9 +56,10 @@
           <h3 style="margin-bottom:1.5rem;">Send a Message</h3>
           <div class="form-message"></div>
           <form id="contact-form">
+            <input type="checkbox" name="botcheck" tabindex="-1" autocomplete="off" style="display:none">
             <input type="hidden" name="access_key" value="6f33053b-6d08-414b-9615-665f88c98da8">
             <input type="hidden" name="cc" value="printwire@gmail.com">
-            <input type="hidden" name="subject" value="Contact — {{ .Site.Title }}">
+            <input type="hidden" name="subject" value="New quote request from 3dprintingservice.co">
 
             <div class="form-group">
               <label class="form-label" for="name">Name</label>
@@ -77,6 +78,7 @@
               <textarea class="form-textarea" id="message" name="message" placeholder="Tell us more..." required></textarea>
             </div>
             <button type="submit" class="btn" style="width:100%;">Send Message</button>
+            <p class="pw-consent" style="font-size:0.8rem;line-height:1.5;margin-top:0.9rem;opacity:0.85;">By sending this form you agree that PrintWire may pass your request to manufacturers to obtain pricing. See the <a href="/privacy/" style="text-decoration:underline;">privacy page</a>.</p>
           </form>
         </div>
       </div>

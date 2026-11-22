@@ -1,20 +1,27 @@
 ---
-title: "3D Printing Service Services"
+title: "Quotes"
 type: "page"
-layout: "services"
-description: "Professional 3D printing service and on-demand manufacturing services — On-demand 3D printing service — metal, polymer, and composite parts with instant quoting, fast lead times, and global delivery."
-heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
-process:
-  - step: "01"
-    title: "Consultation"
-    text: "We review your requirements, material specs, tolerances, and production volume to recommend the optimal process."
-  - step: "02"
-    title: "Design Review"
-    text: "DfAM analysis ensures your design is optimised for the chosen process — wall thickness, support strategy, and feature resolution."
-  - step: "03"
-    title: "Production"
-    text: "Parts produced to specification with full process monitoring, quality control, and material traceability."
-  - step: "04"
-    title: "Delivery"
-    text: "Inspection, finishing, and delivery with full documentation and material certification where required."
+layout: "plain"
+description: "How quote requests work on 3D Printing Service. PrintWire passes requests to specialised manufacturers and replies with pricing."
+subtitle: "How a quote request on 3D Printing Service works."
 ---
+
+## What happens when you ask for a quote
+
+1. You describe the part or project on the [contact page](/contact/). Material, quantity, size, tolerances and deadline all help.
+
+2. PrintWire passes your request to specialised manufacturers.
+
+3. PrintWire replies to you with pricing.
+
+## What PrintWire is and is not
+
+PrintWire does not manufacture parts itself and does not operate printers.
+
+A quote request is not an order. Nothing is made or charged until you have agreed to it in writing.
+
+We do not promise a response time.
+
+## Start
+
+[Go to the contact form](/contact/).
